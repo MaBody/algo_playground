@@ -1,0 +1,1573 @@
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:__main__:50
+INFO:__main__:52
+INFO:__main__:54
+INFO:__main__:55
+INFO:__main__:56
+INFO:__main__:7
+INFO:__main__:8
+INFO:__main__:9
+INFO:__main__:5
+INFO:__main__:57
+INFO:__main__:53
+INFO:__main__:58
+INFO:__main__:59
+INFO:__main__:60
+INFO:__main__:0
+INFO:__main__:1
+INFO:__main__:0
+INFO:__main__:2
+INFO:__main__:3
+INFO:__main__:4
+INFO:__main__:5
+INFO:__main__:6
+INFO:__main__:7
+INFO:__main__:8
+INFO:__main__:9
+INFO:__main__:1
+INFO:__main__:10
+INFO:__main__:2
+INFO:__main__:11
+INFO:__main__:12
+INFO:__main__:13
+INFO:__main__:3
+INFO:__main__:14
+INFO:__main__:15
+INFO:__main__:16
+INFO:__main__:4
+INFO:__main__:17
+INFO:__main__:18
+INFO:__main__:0
+INFO:__main__:1
+INFO:__main__:5
+INFO:__main__:2
+INFO:__main__:3
+INFO:__main__:6
+INFO:__main__:0
+INFO:__main__:1
+INFO:__main__:0
+INFO:__main__:1
+INFO:__main__:7
+INFO:__main__:2
+INFO:__main__:3
+INFO:__main__:8
+INFO:__main__:4
+INFO:__main__:5
+INFO:__main__:9
+INFO:__main__:6
+INFO:__main__:7
+INFO:__main__:10
+INFO:__main__:8
+INFO:__main__:9
+INFO:__main__:10
+INFO:__main__:11
+INFO:__main__:11
+INFO:__main__:12
+INFO:__main__:13
+INFO:__main__:14
+INFO:__main__:12
+INFO:__main__:15
+INFO:__main__:16
+INFO:__main__:17
+INFO:__main__:18
+INFO:__main__:19
+INFO:__main__:13
+INFO:__main__:20
+INFO:__main__:21
+INFO:__main__:22
+INFO:__main__:23
+INFO:__main__:14
+INFO:__main__:24
+INFO:__main__:25
+INFO:__main__:26
+INFO:__main__:27
+INFO:__main__:15
+INFO:__main__:28
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:__main__:114, 0.0
+INFO:__main__:115, 0.0
+INFO:__main__:116, 0.0
+INFO:__main__:73, 0.0
+INFO:__main__:78, 0.0
+INFO:__main__:117, 100.0
+INFO:__main__:74, 0.0
+INFO:__main__:75, 0.0
+INFO:__main__:76, 0.0
+INFO:__main__:77, 0.0
+INFO:__main__:72, 0.0
+INFO:__main__:79, 0.0
+INFO:__main__:-1, 0.0
+INFO:__main__:0, 0.0
+INFO:__main__:-1, 0.0
+INFO:__main__:1, 0.0
+INFO:__main__:0, 0.0
+INFO:__main__:2, 0.0
+INFO:__main__:1, 0.0
+INFO:__main__:3, 0.0
+INFO:__main__:2, 0.0
+INFO:__main__:4, 0.0
+INFO:__main__:3, 0.0
+INFO:__main__:5, 0.0
+INFO:__main__:4, 0.0
+INFO:__main__:6, 0.0
+INFO:__main__:5, 0.0
+INFO:__main__:7, 0.0
+INFO:__main__:6, 0.0
+INFO:__main__:8, 0.0
+INFO:__main__:7, 0.0
+INFO:__main__:9, 0.0
+INFO:__main__:8, 0.0
+INFO:__main__:10, 0.0
+INFO:__main__:9, 0.0
+INFO:__main__:11, 0.0
+INFO:__main__:10, 0.0
+INFO:__main__:12, 0.0
+INFO:__main__:11, 0.0
+INFO:__main__:13, 0.0
+INFO:__main__:12, 0.0
+INFO:__main__:14, 0.0
+INFO:__main__:13, 0.0
+INFO:__main__:15, 0.0
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:__main__:17, 0.0
+INFO:__main__:16, 0.0
+INFO:__main__:14, 0.0
+INFO:__main__:16, 0.0
+INFO:__main__:15, 0.0
+INFO:__main__:18, 0.0
+INFO:__main__:None, 0.0
+INFO:__main__:None, 0.0
+INFO:__main__:1, 0.0
+INFO:__main__:2, 0.0
+INFO:__main__:1, 0.0
+INFO:__main__:3, 0.0
+INFO:__main__:2, 0.0
+INFO:__main__:4, 0.0
+INFO:__main__:3, 0.0
+INFO:__main__:5, 0.0
+INFO:__main__:4, 0.0
+INFO:__main__:6, 0.0
+INFO:__main__:5, 0.0
+INFO:__main__:7, 0.0
+INFO:__main__:6, 0.0
+INFO:__main__:8, 0.0
+INFO:__main__:7, 0.0
+INFO:__main__:9, 0.0
+INFO:__main__:8, 0.0
+INFO:__main__:10, 0.0
+INFO:__main__:9, 0.0
+INFO:__main__:11, 0.0
+INFO:__main__:10, 0.0
+INFO:__main__:12, 0.0
+INFO:__main__:11, 0.0
+INFO:__main__:13, 0.0
+INFO:__main__:12, 0.0
+INFO:__main__:14, 0.0
+INFO:__main__:13, 0.0
+INFO:__main__:15, 0.0
+INFO:__main__:14, 0.0
+INFO:__main__:16, 0.0
+INFO:__main__:15, 0.0
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:__main__:19, 0.0
+INFO:__main__:18, 0.0
+INFO:__main__:17, 0.0
+INFO:__main__:18, 0.0
+INFO:__main__:20, 0.0
+INFO:__main__:None, 0.0
+INFO:__main__:None, 0.0
+INFO:__main__:1, 0.0
+INFO:__main__:1, 0.0
+INFO:__main__:2, 0.0
+INFO:__main__:2, 0.0
+INFO:__main__:3, 0.0
+INFO:__main__:3, 0.0
+INFO:__main__:4, 0.0
+INFO:__main__:4, 0.0
+INFO:__main__:5, 0.0
+INFO:__main__:5, 0.0
+INFO:__main__:6, 0.0
+INFO:__main__:6, 0.0
+INFO:__main__:7, 0.0
+INFO:__main__:7, 0.0
+INFO:__main__:8, 0.0
+INFO:__main__:8, 0.0
+INFO:__main__:9, 0.0
+INFO:__main__:9, 0.0
+INFO:__main__:10, 0.0
+INFO:__main__:10, 0.0
+INFO:__main__:11, 0.0
+INFO:__main__:11, 0.0
+INFO:__main__:12, 0.0
+INFO:__main__:12, 0.0
+INFO:__main__:13, 0.0
+INFO:__main__:13, 0.0
+INFO:__main__:14, 0.0
+INFO:__main__:14, 0.0
+INFO:__main__:15, 0.0
+INFO:__main__:15, 0.0
+INFO:__main__:16, 0.0
+INFO:__main__:16, 0.0
+INFO:__main__:17, 0.0
+INFO:__main__:17, 0.0
+INFO:__main__:18, 0.0
+INFO:__main__:18, 0.0
+INFO:__main__:19, 0.0
+INFO:__main__:19, 0.0
+INFO:__main__:20, 0.0
+INFO:__main__:20, 0.0
+INFO:__main__:21, 0.0
+INFO:__main__:21, 0.0
+INFO:__main__:22, 0.0
+INFO:__main__:22, 0.0
+INFO:__main__:23, 0.0
+INFO:__main__:23, 0.0
+INFO:__main__:24, 0.0
+INFO:__main__:24, 0.0
+INFO:__main__:25, 0.0
+INFO:__main__:25, 0.0
+INFO:__main__:26, 0.0
+INFO:__main__:26, 0.0
+INFO:__main__:27, 0.0
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:__main__:8, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:10, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:11, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:4, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:8, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:5, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:6, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:7, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:None, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:None, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:1, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:1, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:2, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:2, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:3, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:3, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:4, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:4, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:5, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:6, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:5, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:7, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:6, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:8, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:7, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:9, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:8, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:10, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:9, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:11, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:10, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:12, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:11, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:13, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:12, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:14, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:13, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:15, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:14, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:16, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:15, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:17, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:16, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:18, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:17, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:19, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:18, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:20, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:19, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:21, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:20, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:22, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:23, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:__main__:78, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:77, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:79, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:6, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:80, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:7, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:None, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:8, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:9, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:10, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:11, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:12, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:13, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:14, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:15, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:16, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:17, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:18, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:19, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:20, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:21, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:22, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:23, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:24, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:25, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:26, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:27, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:28, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:29, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:30, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:31, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:32, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:33, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:34, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:35, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:36, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:37, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:38, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:39, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:40, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:41, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:42, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:43, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:44, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:45, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:46, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:47, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:48, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:49, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:50, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:51, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:52, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:53, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:54, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:55, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:56, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:57, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:58, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:59, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:60, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:61, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:62, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:63, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:64, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:65, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:66, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:67, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:68, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:69, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:70, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:71, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:72, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:73, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:74, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:75, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:76, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:77, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:1, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:None, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:2, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:1, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:3, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:2, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:4, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:3, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:5, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:4, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:6, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:__main__:26, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:24, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:25, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:5, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:23, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:27, [0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:6, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:7, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:8, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:9, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:10, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:11, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:12, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:13, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:14, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:15, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:16, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:17, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:18, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:19, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:20, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:21, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:None, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:22, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:None, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:1, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:2, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:1, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:3, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:2, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:__main__:7, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:6, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:8, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:5, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:3, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:8, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:9, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:4, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:5, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:6, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:7, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0]
+INFO:__main__:None, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:None, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:1, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:1, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:2, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:2, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:3, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:3, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:4, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:4, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:5, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:5, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:6, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:__main__:26, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:25, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:27, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:6, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:26, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:28, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:7, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:None, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:8, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:9, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:10, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:11, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:12, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:13, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:1, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:14, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:15, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:16, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:17, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:18, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:19, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:20, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:21, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:22, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:23, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:24, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:25, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:2, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:None, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:3, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:1, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:4, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:2, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:5, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:3, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:6, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:4, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:7, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:5, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:8, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:6, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:9, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:7, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:10, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:8, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:11, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:9, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:12, [0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:10, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:13, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:11, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:14, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:12, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:15, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:13, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:16, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:14, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:__main__:17, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:32] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:32] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:32] "GET /_dash-layout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:32] "GET /_dash-dependencies HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:32] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:32] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:32] "GET /_dash-layout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:32] "GET /_dash-dependencies HTTP/1.1" 200 -
+ERROR:cpu_viewer:Exception on /_dash-update-component [POST]
+Traceback (most recent call last):
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\dash\dash.py", line 1376, in dispatch
+    ctx.run(
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\dash\_callback.py", line 514, in add_context
+    raise err
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\dash\_callback.py", line 503, in add_context
+    output_value = _invoke_callback(func, *func_args, **func_kwargs)
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\dash\_callback.py", line 43, in _invoke_callback
+    return func(*args, **kwargs)  # %% callback invoked %%
+  File "C:\Users\Mattis\Repositories\Uni\sem4\algo_playground\cpu_viewer.py", line 58, in update_cpu_load
+    return px.line(df, x=df.index, y=df.columns, range_x=(0, h), range_y=(0, 100))
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\express\_chart_types.py", line 264, in line
+    return make_figure(args=locals(), constructor=go.Scatter)
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\express\_core.py", line 2115, in make_figure
+    apply_default_cascade(args)
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\express\_core.py", line 970, in apply_default_cascade
+    args["symbol_sequence"] = [
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\express\_core.py", line 971, in <listcomp>
+    scatter.marker.symbol for scatter in args["template"].data.scatter
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\graph_objs\scatter\_marker.py", line 1214, in symbol
+    return self["symbol"]
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\basedatatypes.py", line 4742, in __getitem__
+    elif self._props is not None and prop in self._props:
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\basedatatypes.py", line 4437, in _props
+    return self.parent._get_child_props(self)
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\basedatatypes.py", line 4451, in _get_child_props
+    if self._props is None:
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\basedatatypes.py", line 4437, in _props
+    return self.parent._get_child_props(self)
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\basedatatypes.py", line 4471, in _get_child_props
+    child_ind = BaseFigure._index_is(children, child)
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\basedatatypes.py", line 3965, in _index_is
+    raise ValueError("Invalid value")
+ValueError: Invalid value
+ERROR:cpu_viewer:Exception on /_dash-update-component [POST]
+Traceback (most recent call last):
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\dash\dash.py", line 1376, in dispatch
+    ctx.run(
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\dash\_callback.py", line 514, in add_context
+    raise err
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\dash\_callback.py", line 503, in add_context
+    output_value = _invoke_callback(func, *func_args, **func_kwargs)
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\dash\_callback.py", line 43, in _invoke_callback
+    return func(*args, **kwargs)  # %% callback invoked %%
+  File "C:\Users\Mattis\Repositories\Uni\sem4\algo_playground\cpu_viewer.py", line 58, in update_cpu_load
+    return px.line(df, x=df.index, y=df.columns, range_x=(0, h), range_y=(0, 100))
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\express\_chart_types.py", line 264, in line
+    return make_figure(args=locals(), constructor=go.Scatter)
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\express\_core.py", line 2115, in make_figure
+    apply_default_cascade(args)
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\express\_core.py", line 970, in apply_default_cascade
+    args["symbol_sequence"] = [
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\express\_core.py", line 971, in <listcomp>
+    scatter.marker.symbol for scatter in args["template"].data.scatter
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\graph_objs\scatter\_marker.py", line 1214, in symbol
+    return self["symbol"]
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\basedatatypes.py", line 4742, in __getitem__
+    elif self._props is not None and prop in self._props:
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\basedatatypes.py", line 4437, in _props
+    return self.parent._get_child_props(self)
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\basedatatypes.py", line 4451, in _get_child_props
+    if self._props is None:
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\basedatatypes.py", line 4437, in _props
+    return self.parent._get_child_props(self)
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\basedatatypes.py", line 4471, in _get_child_props
+    child_ind = BaseFigure._index_is(children, child)
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\basedatatypes.py", line 3965, in _index_is
+    raise ValueError("Invalid value")
+ValueError: Invalid value
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:33] "[35m[1mPOST /_dash-update-component HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:33] "[35m[1mPOST /_dash-update-component HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:33] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:33] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:34] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:34] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:34] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:34] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:34] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:34] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:35] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:35] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:36] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:36] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:36] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:37] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:37] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:38] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:38] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:39] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:40] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:40] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:41] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:41] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:42] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:43] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:43] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:44] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:45] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:45] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:57] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:57] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:57] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:59] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:10:59] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:00] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:00] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:00] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:00] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:00] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:00] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:00] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:00] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:00] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:02] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:02] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:02] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:02] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:02] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:03] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:03] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:03] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:05] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:05] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:06] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:06] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:07] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:08] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:09] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:10] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:10] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:11] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:11] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:12] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:14] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:14] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:14] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:15] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:16] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:17] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:17] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:17] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:19] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:19] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:20] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:21] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:21] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:21] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:23] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:23] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:23] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:24] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:25] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:25] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:26] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:27] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:27] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:27] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:29] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:29] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:29] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:31] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:31] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:31] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:32] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:33] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:33] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:34] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:35] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:35] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:35] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:37] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:37] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:37] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:38] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:39] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:39] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:41] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:41] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:41] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:41] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:43] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:43] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:44] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:45] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:45] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:45] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:47] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:47] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:47] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:48] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:49] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:50] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:50] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:51] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:52] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:52] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:53] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:53] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:54] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:55] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:56] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:56] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:56] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:57] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:58] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:59] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:59] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:11:59] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:00] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:01] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:02] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:02] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:03] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:03] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:05] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:05] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:05] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:07] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:07] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:07] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:08] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:09] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:09] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:11] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:11] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:11] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:11] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:14] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:14] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:15] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:16] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:17] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:17] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:17] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:18] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:19] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:20] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:20] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:21] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:21] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:22] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:23] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:23] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:24] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:25] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:25] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:26] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:26] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:27] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:28] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:29] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:29] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:29] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:30] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:31] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:32] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:32] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:33] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:33] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:34] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:35] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:35] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:36] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:37] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:37] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:38] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:38] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:39] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:40] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:41] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:41] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:41] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:42] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:43] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:44] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:44] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:45] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:45] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:46] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:47] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:47] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:48] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:49] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:49] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:50] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:50] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:51] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:52] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:53] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:53] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:53] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:54] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:56] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:56] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:56] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:56] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:58] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:58] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:12:59] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:00] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:00] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:00] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:02] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:02] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:02] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:04] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:04] "GET /_dash-layout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:04] "GET /_dash-dependencies HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:04] "GET /_favicon.ico?v=2.18.1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:04] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:04] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:04] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:04] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:05] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:05] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:05] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:06] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:06] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:06] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:06] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:06] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:07] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:07] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:07] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:07] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:07] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:09] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:09] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:09] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:09] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:09] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:10] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:10] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:10] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:10] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:10] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:10] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:11] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:11] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:11] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:11] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:11] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:11] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:12] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:12] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:12] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:12] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:12] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:12] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:14] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:14] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:14] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:14] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:14] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:15] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:15] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:15] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:15] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:16] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:16] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:16] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:16] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:16] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:16] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:17] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:17] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:17] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:17] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:17] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:17] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:17] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:18] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:18] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:18] "GET /_dash-layout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:18] "GET /_dash-dependencies HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:18] "GET /_favicon.ico?v=2.18.1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:18] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:18] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:18] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:18] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:18] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:19] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:19] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:19] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:19] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:20] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:20] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:20] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:20] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:20] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:20] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:20] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:21] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:21] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:21] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:21] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:21] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:22] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:22] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:22] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:22] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:23] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:23] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:23] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:23] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:23] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:23] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:24] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:24] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:24] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:24] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:24] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:24] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:25] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:25] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:25] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:25] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:25] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:25] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:26] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:26] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:26] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:26] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:26] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:27] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:27] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:27] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:27] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:27] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:27] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:28] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:28] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:28] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:28] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:28] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:29] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:29] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:29] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:29] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:29] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:30] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:30] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:30] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:30] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:30] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:30] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:31] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:31] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:31] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:31] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:31] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:32] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:32] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:32] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:32] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:32] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:32] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:33] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:33] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:33] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:33] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:33] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:33] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:33] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:34] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:34] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:34] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:34] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:34] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:35] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:35] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:35] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:35] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:35] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:36] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:36] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:36] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:36] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:37] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:37] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:37] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:37] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:37] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:37] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:38] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:38] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:38] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:38] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:38] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:38] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:39] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:39] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:39] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:39] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:39] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:39] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:40] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:40] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:40] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:40] "GET /_dash-layout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:40] "GET /_dash-dependencies HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:40] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:40] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:40] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:40] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:40] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:40] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:41] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:41] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:41] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:41] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:42] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:42] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:42] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:42] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:42] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:43] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:43] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:43] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:43] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:43] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:44] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:44] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:44] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:44] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:44] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:44] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:45] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:45] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:45] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:45] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:45] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:45] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:45] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:46] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:46] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:46] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:46] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:46] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:47] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:47] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:47] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:47] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:47] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:47] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:48] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:48] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:48] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:48] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:48] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:49] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:49] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:49] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:49] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:49] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:49] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:50] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:50] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:50] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:50] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:50] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:51] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:51] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:51] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:51] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:51] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:51] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:52] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:52] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:52] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:52] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:52] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:53] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:53] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:53] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:53] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:53] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:53] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:53] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:54] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:54] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:54] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:54] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:54] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:55] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:55] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:55] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:55] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:55] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:55] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:56] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:56] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:56] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:56] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:56] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:57] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:57] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:57] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:57] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:57] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:57] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:58] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:58] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:58] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:58] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:58] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:59] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:59] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:59] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:59] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:59] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:13:59] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:00] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:00] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:00] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:00] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:00] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:01] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:01] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:01] "GET /_reload-hash HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:01] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:01] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:01] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:02] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:02] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:02] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:02] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:02] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:02] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:03] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:03] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:03] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:03] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:03] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:04] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:04] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:04] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:04] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 17:14:04] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:13:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:13:58] "GET /_dash-layout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:13:58] "GET /_dash-dependencies HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:13:58] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:13:58] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:00] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:00] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:00] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:00] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:00] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:00] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:02] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:02] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:02] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:02] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:02] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:02] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:03] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:03] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:03] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:03] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:03] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:03] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:04] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:04] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:04] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:04] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:04] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:04] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:05] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:05] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:06] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:06] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:06] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:06] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:06] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:07] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:07] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:07] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:07] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:07] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:07] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:09] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:09] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:09] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:09] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:09] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:10] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:10] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:10] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:10] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:10] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:10] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:11] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:11] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:11] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:11] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:11] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:12] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:12] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:12] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:12] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:14] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:14] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:14] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:14] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:14] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:15] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:15] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:15] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:15] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:15] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:16] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:16] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:16] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:16] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:17] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:17] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:17] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:17] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:17] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:18] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:18] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:18] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:18] "GET /_dash-layout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:18] "GET /_dash-dependencies HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:18] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:18] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:18] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:18] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:19] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:19] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:19] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:19] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:19] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:20] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:20] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:20] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:20] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:20] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:21] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:21] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:21] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:21] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:21] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:22] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:22] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:22] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:14:22] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:cpu_viewer:Exception on /_dash-update-component [POST]
+Traceback (most recent call last):
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\dash\dash.py", line 1376, in dispatch
+    ctx.run(
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\dash\_callback.py", line 514, in add_context
+    raise err
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\dash\_callback.py", line 503, in add_context
+    output_value = _invoke_callback(func, *func_args, **func_kwargs)
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\dash\_callback.py", line 43, in _invoke_callback
+    return func(*args, **kwargs)  # %% callback invoked %%
+  File "C:\Users\Mattis\Repositories\Uni\sem4\algo_playground\cpu_viewer.py", line 58, in update_cpu_load
+    return px.line(df, x=df.index, y=df.columns, range_x=(0, h), range_y=(0, 100))
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\express\_chart_types.py", line 264, in line
+    return make_figure(args=locals(), constructor=go.Scatter)
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\express\_core.py", line 2115, in make_figure
+    apply_default_cascade(args)
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\express\_core.py", line 970, in apply_default_cascade
+    args["symbol_sequence"] = [
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\express\_core.py", line 971, in <listcomp>
+    scatter.marker.symbol for scatter in args["template"].data.scatter
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\graph_objs\scatter\_marker.py", line 1214, in symbol
+    return self["symbol"]
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\basedatatypes.py", line 4742, in __getitem__
+    elif self._props is not None and prop in self._props:
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\basedatatypes.py", line 4437, in _props
+    return self.parent._get_child_props(self)
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\basedatatypes.py", line 4451, in _get_child_props
+    if self._props is None:
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\basedatatypes.py", line 4437, in _props
+    return self.parent._get_child_props(self)
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\basedatatypes.py", line 4471, in _get_child_props
+    child_ind = BaseFigure._index_is(children, child)
+  File "C:\Users\Mattis\Envs\algo-playground-env\lib\site-packages\plotly\basedatatypes.py", line 3965, in _index_is
+    raise ValueError("Invalid value")
+ValueError: Invalid value
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:06] "[35m[1mPOST /_dash-update-component HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:10] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:10] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:10] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:10] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:10] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:10] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:11] "GET /_dash-layout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:11] "GET /_dash-dependencies HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:11] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:11] "GET /_favicon.ico?v=2.18.1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:11] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:11] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:11] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:11] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:11] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:11] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:11] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:12] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:12] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:12] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:12] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:12] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:14] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:16] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:18] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:20] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:22] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:24] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:26] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:28] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:30] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:32] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:34] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:36] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:38] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:40] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:42] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:44] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:46] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:48] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:50] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:52] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:54] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:56] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:15:58] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:00] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:02] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:04] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:06] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:08] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:10] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:12] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:14] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:16] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:18] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:20] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:22] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:24] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:26] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:28] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:30] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:32] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:34] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:36] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:38] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:40] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:42] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:44] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:47] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:49] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:51] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:53] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:55] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:57] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:16:59] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:03] "GET /_dash-layout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:03] "GET /_dash-dependencies HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:03] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:03] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:05] "GET /_dash-dependencies HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:05] "GET /_dash-layout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:05] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:05] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:06] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:06] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:07] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:09] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:11] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:12] "GET /_dash-layout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:12] "GET /_dash-dependencies HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:12] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:12] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:14] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:16] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:18] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:20] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:22] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:24] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:25] "GET /_dash-layout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:25] "GET /_dash-dependencies HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:25] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:25] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:26] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:27] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:29] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:31] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:33] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:35] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:37] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:39] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:41] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:43] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:45] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:47] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:49] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:51] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:53] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:55] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:57] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:17:59] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:01] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:03] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:05] "GET /_dash-layout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:05] "GET /_dash-dependencies HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:05] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:05] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:05] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:07] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:09] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:11] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:13] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:15] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:17] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:17] "GET /_dash-layout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:17] "GET /_dash-dependencies HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:17] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:17] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:19] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:19] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:22] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:24] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 13:18:26] "POST /_dash-update-component HTTP/1.1" 200 -
